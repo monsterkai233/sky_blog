@@ -7,5 +7,5 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
-  pathPrefix: `/kai233`
+  pathPrefix: `/sky_blog`
 }
